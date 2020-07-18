@@ -1,0 +1,49 @@
+CLASS       RACF  resource name      
+--------    --------------------     
+ IBMOPC     AD                       
+ IBMOPC     ARC                      
+ IBMOPC     BKP                      
+ IBMOPC     CL                       
+ IBMOPC     CONT                     
+ IBMOPC     CP                       
+ IBMOPC     ETAC                     
+ IBMOPC     ETT                      
+ IBMOPC     EXEC                     
+ IBMOPC     JS                       
+ IBMOPC     JSUB                     
+ IBMOPC     JV                       
+ IBMOPC     LT                       
+ IBMOPC     OI                       
+ IBMOPC     PR                       
+ IBMOPC     RD                       
+ IBMOPC     REFR                     
+ IBMOPC     RL                       
+ IBMOPC     SR                       
+ IBMOPC     WS                       
+ IBMOPC     WSCL                     
+ IBMOPC     CPJ.CMP* (G)             
+ IBMOPC     CPJ.SUB* (G)             
+ IBMOPC     SRS.PME* (G)             
+ IBMOPC     SRS.* (G)                
+ IBMOPC     %%A.CWS* (G)             
+ IBMOPC     %%A.FDC* (G)             
+ IBMOPC     %%A.FMSEACCIPL* (G)      
+ IBMOPC     %%A.FMSECCMOCLM* (G)     
+ IBMOPC     %%A.FMSECCPEX* (G)       
+ IBMOPC     %%A.FMSECCPUP* (G)       
+ IBMOPC     %%A.FMSEEXIPL* (G)       
+ IBMOPC     %%A.FMSEPLMESSAGE (G)    
+IBMOPC     %%A.FMSEUPIPL* (G)      
+IBMOPC     %%A.FMSEUPP3DTE (G)     
+IBMOPC     %%A.FMS* (G)            
+IBMOPC     %%A.PME* (G)            
+IBMOPC     %%A.* (G)               
+IBMOPC     %%J.CWS* (G)            
+IBMOPC     %%J.FDC* (G)            
+IBMOPC     %%J.FMS* (G)            
+IBMOPC     %%J.PME* (G)            
+IBMOPC     %%J.* (G)               
+IBMOPC     %%O.FDCFOPC (G)         
+IBMOPC     %%O.FMSFOPC (G)         
+IBMOPC     %%O.* (G)               
+IBMOPC     %%W.MODEL (G)           
